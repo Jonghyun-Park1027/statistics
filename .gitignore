@@ -1,0 +1,15 @@
+/data/
+*.pdf
+/data/
+/Dataset-20230303.zip
+/강의노트-20230303.zip
+*.html
+lecture*.ipynb
+/Dataset-20230309/
+/강의노트-20230309.zip
+/.idea/
+/picture/
+/5주차/HW4.html
+/2주차/HW2.ipynb
+*lecture*
+/6주차/통계 6주차.mkv
